@@ -1,5 +1,6 @@
 import express from 'express';
 import bodyParser from 'body-parser';
+import cors from 'cors'; // Import cors middleware
 import { FaissStore } from "@langchain/community/vectorstores/faiss";
 import { TextLoader } from "langchain/document_loaders/fs/text";
 import { GoogleGenerativeAI } from "@google/generative-ai";
@@ -20,6 +21,9 @@ const __dirname = path.dirname(__filename);
 // Initialize Express server
 const app = express();
 app.use(bodyParser.json());
+
+// Use cors middleware to allow requests from all origins
+app.use(cors());
 
 async function embedRetrivalQuery(queryText) {
   const result = await model.embedContent({
