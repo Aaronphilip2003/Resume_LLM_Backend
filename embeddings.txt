@@ -1,0 +1,77 @@
+ Aaron  Philip  
+ aaronphilip2003@gmail.com        853000 8394        https://www .linkedin.com/in/aaron-philip-a04 869229/        https://github.com/Aaronphilip2003 
+SUMMARY  
+Detail -oriented  and  analytical  professional  with  strong  problem -solving  skills  and  a collaborative  mindset.  Highly  attentive  to details,  consistently  
+delivering accurate and precise work. Effective team player known for actively contributing to team success through open communication and  
+cooperation.  
+EXPERIENCE  
+Backend  and  Prompt  Engineer  
+Softlander  Consultants  January  2024  - March  2024  
+At Softlander i worked on Developing  an AI Tutoring  Application  which  is self sufficient  
+ Generates  Courses,  Assessments  and  Activities  by itself  
+ Evaluation  of Courses  done  itself  
+ AI and  Prompt  Engineering  
+ Technology  Stack  : Casdoor  (Python),  FastAPI,  Microsoft  Autogen  
+Data  Engineer  (Research  Intern)  
+ARTPARK  (IISC  Bangalore)  July  2023  - November  2023 , Bangalore,  IN 
+At Artpark I Performed  thorough  data  cleaning  to eliminate  duplicate,  missing,  and  inconsistent  entries  in the dengue  dataset.  
+ Conducted  exploratory  data  analysis  (EDA)  to identify  outliers,  anomalies,  and  data  quality  issues.  
+ Worked  on designing  an end -to-end  data  processing  and  modeling  pipeline  for dengue  data,  ensuring  efficient  and  reproducible  workflows.  
+ Technology  Stack:  Python,  Excel  
+Smart  India  Hackathon  Winner  (2022)  
+Dell  Technologies  August  2022  - September  2022 , Bangalore,  IN 
+ Won  the finale  of the Smart  India  Hackathon,  2022  in collaboration  with  a dedicated  team.  
+ Developed  and  proposed  a highly  scalable,  multilingual  solution  for Dell  Technologies'  problem  statement.  
+ Created  a conversational  chatbot  builder  specifically  designed  for the healthcare  industry,  offering  
+ troubleshooting  assistance,  training,  and  problem  diagnostics.  
+ Technologies  used  to make  this  possible  included  python,  RASA,  MongoDB,  AWS  for S3 and  EC2  instances  and  docker.  
+Python  Developer  
+COSMOS  MIT -WPU  November  2021  - Present , Pune,IN  
+ Designed  and  developed  a robust  Python -based  observatory  pipeline  that  fully  automates  the entire  process  of preparing,  imaging,  collecting,  and  
+cleaning  astronomical  data  during  night -time  observations.  
+ Implemented  efficient  data  preprocessing  algorithms,  ensuring  seamless  handling  of diverse  data  formats  and  optimizing  data  quality.  
+ Integrated  advanced  image  processing  techniques  to extract  valuable  insights  from  astronomical  images,  enhancing  the accuracy  and  usefulness  of 
+the data  collected.  
+PROJECTS  
+AI Tutor  and  Youtube  Tutor  
+https://github.com/Aaronphilip2003/youtube-backend 
+ Created  a PDF  Chatbot  and  YouTube  Chatbot  using  a React  frontend  and  a Django  backend.  
+ Users  can ask questions  about  the YouTube  video  if they  dont  want  to watch  complete  tutorials  
+ Integrated  advanced  Language  Models  (LLMs)  such  as PALM,  LLAMA  and  a few  other  open -source  models  for natural  language  understanding  and  
+generation.  
+ Incorporated  text  embeddings  for efficient  data  representation  and  content  retrieval  within  PDFs.  
+ Utilized  langchain  to ensure  coherent  and  context -aware  conversations.  
+ Designed  dynamic  and  user -friendly  React  components  for a seamless  user  experience.  
+Full  Stack  Blogging  Platform  
+individual   https://aaron-blog.onrender.com/   March 2024 -May 2024 
+ Successfully  delivered  a comprehensive  MERN  (MongoDB,  Express.js,  React.js,  Node.js)  stack  web  application  project  independently.  
+ Designed  and  implemented  a fully  responsive  blogging  platform  with  advanced  features,  including  user  authentication  with  JSON  Web  Tokens  and  
+Google  OAuth  integration,  utilizing  Redux  Toolkit  for streamlined  state  management.  
+ Implemented  cutting -edge  search  functionality  allowing  users  to search  posts  by title,  limit  results,  and  sort  through  a modern  sidebar,  enhancing  
+user  experience  with  MongoDB  database  optimizations.  
+ Developed  an intuitive  admin  dashboard  enabling  CRUD  operations  for managing  posts,  comments,  and  users  securely,  enhancing  website  
+administration  capabilities.  
+ Deployed  the application  seamlessly  on the 'render'  platform,  ensuring  free  accessibility  and  ease  of sharing  for portfolio  purposes.    
+ Document  Chat  App  
+https://doc-chat-frontend.vercel.app/   January 2024 - February 2024 
+ The Document Chatting App is a web application developed to facilitate efficient communication and collaboration around documents. Leveraging  
+modern  web  technologies,  the app  enables  users  to upload  documents  and  engage  in real -time  conversations,  including  cross -questioning  based  on 
+the uploaded  content.  The  app  utilizes  React  for the frontend,  Node.js  for the backend,  Pinecone  for vector  database  management,  and  MongoDB  for 
+data  storage.  
+EDUCATION  
+Bachelor  of Computer  Science  Engineering  (Third  Year)  
+Maharashtra  Institute  of Technology   Pune,IN   2022   CGPA  - 9.21   
+Higher  Secondary  Education  
+Pune,IN   2021   96.33%  
+Secondary  Education  
+The  Bishop's  School  Camp,  Pune   Pune,  IN  2019   94%  
+SKILLS  
+Front End: HTML, CSS, Javascript, ReactJS, NextJS, TailwindCSS  
+Middleware  : Redux  
+Back End: NodeJS, PHP, Express, Django, FastAPI  
+Cloud:  AWS  (S3,EC2)  
+Database  Management:  MongoDB,  MySQL,  Firebase  
+API  integration:  Axios,  Express,  Postman  
+Automation:  Python,  Bash  
+Deployment:  AWS,Render,  Vercel  
+Miscellaneous:  C,C++,  Java  
