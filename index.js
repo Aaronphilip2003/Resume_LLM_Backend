@@ -10,7 +10,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 // Initialize Google Generative AI
-const genAI = new GoogleGenerativeAI("AIzaSyBysL_SjXQkJ8lI1WPTz4VwyH6fxHijGUE");
+const genAI = new GoogleGenerativeAI("AIzaSyCFbc2FYGx1yO8uBB7rpSosbHmSFXpoI1Q");
 const model = genAI.getGenerativeModel({ model: "embedding-001" });
 const model2 = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
