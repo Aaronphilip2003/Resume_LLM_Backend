@@ -5,6 +5,15 @@ Detail -oriented  and  analytical  professional  with  strong  problem -solving 
 delivering accurate and precise work. Effective team player known for actively contributing to team success through open communication and  
 cooperation.  
 EXPERIENCE  
+Backend and AI Engineer
+DevRev
+Contributing to their observability product, recording user sessions for clients like Bajaj, HDFC, and IndusInd Bank;
+Tasked with developing dashboards for clients like Bajaj and HDFC for them to view sessions data and query them in natural language to understand insights about the sessions
+Developed a chatbot for the sessions data
+developing MongoDB aggregations to analyze user screen usage
+Tasked with enhancing session handling and user properties in Java Spring Boot, and implemented logging to DataDog
+Completed Golang training, migrated Go code, and updated the Angular Admin Portal with new API parameters
+
 Backend  and  Prompt  Engineer  
 Softlander  Consultants  January  2024  - March  2024  
 At Softlander i worked on Developing  an AI Tutoring  Application  which  is self sufficient  
